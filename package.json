@@ -1,0 +1,26 @@
+{
+  "name": "cloud_play",
+  "version": "1.0.0",
+  "description": "Full_Stack Application",
+  "keywords": [
+    "cloud_Full_Stack"
+  ],
+  "homepage": "https://github.com/AppuSubhash/cloud-plat#readme",
+  "bugs": {
+    "url": "https://github.com/AppuSubhash/cloud-plat/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AppuSubhash/cloud-plat.git"
+  },
+  "license": "ISC",
+  "author": "Subhash R",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "app.test"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
